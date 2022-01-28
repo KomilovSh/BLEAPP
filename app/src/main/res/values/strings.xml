@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BLEAPP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="unnamed_device">Unnamed</string>
+    <string name="enable_bluetooth">Turn On your Bluetooth</string>
+    <string name="enable_bluetooth_message">app need bluetooth connection in order to work properly</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
